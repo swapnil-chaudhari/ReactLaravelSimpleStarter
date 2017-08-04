@@ -4,11 +4,8 @@ const Header = () =>
     <div>
 
         <header className="main-header">
-
             <a href="index2.html" className="logo">
-
                 <span className="logo-mini"><b>A</b>LT</span>
-
                 <span className="logo-lg"><b>Swapnil Chaudhari</b></span>
             </a>
 
